@@ -1,0 +1,34 @@
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\bin\Debug\netcoreapp3.1\Kursova Chess.exe
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\bin\Debug\netcoreapp3.1\Kursova Chess.deps.json
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\bin\Debug\netcoreapp3.1\Kursova Chess.runtimeconfig.json
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\bin\Debug\netcoreapp3.1\Kursova Chess.runtimeconfig.dev.json
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\bin\Debug\netcoreapp3.1\Kursova Chess.dll
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\bin\Debug\netcoreapp3.1\Kursova Chess.pdb
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.csproj.AssemblyReference.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova_Chess.Form1.resources
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.csproj.GenerateResource.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.AssemblyInfoInputs.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.AssemblyInfo.cs
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.csproj.CoreCompileInputs.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.dll
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.pdb
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova Chess.genruntimeconfig.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Kursova Chess\obj\Debug\netcoreapp3.1\Kursova_Chess.Properties.Resources.resources
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\bin\Debug\netcoreapp3.1\Kursova Chess.exe
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\bin\Debug\netcoreapp3.1\Kursova Chess.deps.json
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\bin\Debug\netcoreapp3.1\Kursova Chess.runtimeconfig.json
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\bin\Debug\netcoreapp3.1\Kursova Chess.runtimeconfig.dev.json
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\bin\Debug\netcoreapp3.1\Kursova Chess.dll
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\bin\Debug\netcoreapp3.1\Kursova Chess.pdb
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova_Chess.Properties.Resources.resources
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.csproj.GenerateResource.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.AssemblyInfoInputs.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.AssemblyInfo.cs
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.csproj.CoreCompileInputs.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.dll
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.pdb
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.genruntimeconfig.cache
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova_Chess.GameWindow.resources
+D:\Stanislav\School\Universitet\3 Курс\Семестър 5\Praktikum OOP\Chess Game\obj\Debug\netcoreapp3.1\Kursova Chess.csproj.AssemblyReference.cache
